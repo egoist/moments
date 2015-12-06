@@ -1,6 +1,6 @@
 {
   "name": "moments",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "print multi time in different timezones.",
   "main": "index.js",
   "scripts": {
